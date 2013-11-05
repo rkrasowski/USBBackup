@@ -1,0 +1,3 @@
+s
+Starting up
+Subscribing signal

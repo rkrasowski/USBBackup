@@ -1,0 +1,47 @@
+2013/10/13 11:25:47 Process ID is 3145
+2013/10/13 11:25:47 Written to ./dbus-mount-watcher.pid
+2013/10/13 11:25:47 Starting up
+2013/10/13 11:25:47 Subscribing to signal
+2013/10/13 11:25:55 Found mount point file:///media/USB_BACKUP1 
+2013/10/13 11:25:55 Launching DISPLAY=:0.0 /home/robert/Script/USBBackup/gtk2-backup.pl file:///media/USB_BACKUP1 &
+2013/10/13 11:32:46 Found mount point file:///media/USB_BACKUP1 
+2013/10/13 11:32:46 Launching DISPLAY=:0.0 /home/robert/Script/USBBackup/gtk2-backup.pl file:///media/USB_BACKUP1 &
+2013/10/13 11:40:09 Found mount point file:///media/USB_BACKUP1 
+2013/10/13 11:40:09 Launching DISPLAY=:0.0 /home/robert/Script/USBBackup/gtk2-backup.pl file:///media/USB_BACKUP1 &
+2013/10/13 11:40:47 Already running: 3145 (pidfile=./dbus-mount-watcher.pid)
+2013/10/13 11:40:59 Process ID is 3541
+2013/10/13 11:40:59 Written to ./dbus-mount-watcher.pid
+2013/10/13 11:40:59 Starting up
+2013/10/13 11:40:59 Subscribing to signal
+2013/10/13 11:41:06 Found mount point file:///media/USB_BACKUP1 
+2013/10/13 11:41:06 Launching DISPLAY=:0.0 /home/robert/Scripts/USBBackup/gtk2-backup.pl file:///media/USB_BACKUP1 &
+2013/10/13 11:41:44 Found mount point file:///media/BACKUP_1 
+2013/10/13 11:43:26 Already running: 3541 (pidfile=./dbus-mount-watcher.pid)
+2013/10/13 11:43:36 Process ID is 3633
+2013/10/13 11:43:36 Written to ./dbus-mount-watcher.pid
+2013/10/13 11:43:36 Starting up
+2013/10/13 11:43:36 Subscribing to signal
+2013/10/13 11:43:47 Found mount point file:///media/BACKUP_1 
+2013/10/13 11:43:47 Launching DISPLAY=:0.0 /home/robert/Scripts/USBBackup/gtk2-backup.pl file:///media/BACKUP_1 &
+2013/10/13 11:45:16 Found mount point file:///media/BACKUP_1 
+2013/10/13 11:45:16 Launching DISPLAY=:0.0 /home/robert/Scripts/USBBackup/gtk2-backup.pl file:///media/BACKUP_1 &
+2013/10/13 11:50:09 Already running: 3633 (pidfile=./dbus-mount-watcher.pid)
+2013/11/01 17:36:52 Process ID is 3527
+2013/11/01 17:36:52 Written to ./dbus-mount-watcher.pid
+2013/11/01 17:36:52 Starting up
+2013/11/01 17:37:17 Process ID is 3571
+2013/11/01 17:37:17 Written to ./dbus-mount-watcher.pid
+2013/11/01 17:37:17 Starting up
+2013/11/01 17:37:23 Process ID is 3575
+2013/11/01 17:37:23 Written to ./dbus-mount-watcher.pid
+2013/11/01 17:37:23 Starting up
+2013/11/01 17:37:25 Process ID is 3579
+2013/11/01 17:37:25 Written to ./dbus-mount-watcher.pid
+2013/11/01 17:37:25 Starting up
+2013/11/01 17:43:36 Process ID is 2428
+2013/11/01 17:43:36 Written to ./dbus-mount-watcher.pid
+2013/11/01 17:43:36 Starting up
+2013/11/01 17:43:37 Subscribing to signal
+2013/11/01 17:43:47 Already running: 2428 (pidfile=./dbus-mount-watcher.pid)
+2013/11/01 17:44:01 Found mount point file:///media/BACKUP_1 
+2013/11/01 17:44:01 Launching DISPLAY=:0.0 /home/robert/Scripts/USBBackup/gtk2-backup.pl file:///media/BACKUP_1 &

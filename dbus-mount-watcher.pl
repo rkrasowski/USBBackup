@@ -2,6 +2,7 @@
 ###########################################
 # mount-watcher
 # Mike Schilli, 2010 (m@perlmeister.com)
+# Modyfied by Robert J. Krasowski
 ###########################################
 use strict;
 use Net::DBus;
